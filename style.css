@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #00a2ff;
+}
+#projects {
+  background-color: #00a2ff;
+}
+section {
+  padding-top: 5rem;
+}
+.maincontent {
+  flex: 5;
+  order: 2;
+}
+.sidebarleft {
+  flex: 1;
+  order: 1;
+  padding-right: 2rem;
+}
+.sidebarright {
+  flex: 1;
+  order: 3;
+  padding-left: 2rem;
+}
+#Content {
+  padding-top: 7rem;
+  background-color: rgb(255, 255, 255);
+}
+.carousel-item img {
+ width: auto ;
+ height: 500px;
+}
